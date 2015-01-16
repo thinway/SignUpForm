@@ -14,4 +14,6 @@
     <string name="username_input_hint">Introducir nombre ...</string>
     <string name="password_input_hint">Introducir password ...</string>
     <string name="confirm_input_hint">Confirmar password ...</string>
+    <string name="random">Random</string>
+    
 </resources>
